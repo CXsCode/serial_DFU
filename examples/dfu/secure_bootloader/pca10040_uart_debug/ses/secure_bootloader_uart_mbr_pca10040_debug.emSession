@@ -1,0 +1,68 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;Application"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;Board Definition"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;nano-pb"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;None"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;nRF_Bootloader"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;nRF_Crypto backend uECC"/>
+  <ProjectSessionItem path="secure_bootloader_uart_mbr_pca10040_debug;secure_bootloader_uart_mbr_pca10040_debug;nRF_Log"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="41" y="136" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../main.c" selected="0" top="116" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="41" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../components/libraries/crypto/backend/micro_ecc/micro_ecc_backend_ecc.h" selected="0" top="39" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="58" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/components/libraries/crypto/backend/micro_ecc/micro_ecc_backend_ecc.h" useBinaryEdit="0" left="0" path="../../../../../components/libraries/crypto/backend/micro_ecc/micro_ecc_backend_ecc.c" selected="0" top="40" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="12" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../dfu_public_key.c" selected="0" top="0" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="262" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/components/libraries/bootloader/nrf_bootloader_app_start.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/bootloader/nrf_bootloader_app_start_final.c" selected="0" top="228" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="54" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/dfu/secure_bootloader/main.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/bootloader/nrf_bootloader_app_start.h" selected="0" top="47" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="67" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/dfu/secure_bootloader/main.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/bootloader/nrf_bootloader_info.h" selected="0" top="60" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="36" y="115" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/components/libraries/bootloader/nrf_bootloader_info.h" useBinaryEdit="0" left="0" path="../../../../../components/libraries/util/app_util.h" selected="0" top="96" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="22" y="901" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/dfu/secure_bootloader/main.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/log/src/nrf_log_frontend.c" selected="1" top="891" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="36" y="83" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/dfu/secure_bootloader/main.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/log/nrf_log_ctrl.h" selected="0" top="61" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="264" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../components/libraries/bootloader/nrf_bootloader_dfu_timers.c" selected="0" top="142" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="93" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/components/libraries/bootloader/nrf_bootloader_dfu_timers.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/bootloader/nrf_bootloader_dfu_timers.h" selected="0" top="74" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="1" y="75" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/dfu/secure_bootloader/main.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/log/nrf_log_default_backends.h" selected="0" top="48" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="416" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/dfu/secure_bootloader/main.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/bootloader/nrf_bootloader.c" selected="0" top="416" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="15" y="227" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/components/libraries/bootloader/nrf_bootloader.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/bootloader/dfu/nrf_dfu_types.h" selected="0" top="208" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="26" y="75" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/dfu/secure_bootloader/main.c" useBinaryEdit="0" left="0" path="../../../../../components/libraries/bootloader/nrf_bootloader_app_start.c" selected="0" top="53" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="18" y="44" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../external/nano-pb/pb_common.c" selected="0" top="39" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="192" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/external/nano-pb/pb_common.c" useBinaryEdit="0" left="0" path="../../../../../external/nano-pb/pb.h" selected="0" top="173" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../components/boards/boards.c" selected="0" top="201" codecName="UTF-8"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="secure_bootloader_uart_mbr_pca10040_debug" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>

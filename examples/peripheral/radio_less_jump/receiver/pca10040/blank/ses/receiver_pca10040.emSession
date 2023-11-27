@@ -1,0 +1,80 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="receiver_pca10040" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="receiver_pca10040" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="receiver_pca10040" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="receiver_pca10040" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="receiver_pca10040"/>
+  <ProjectSessionItem path="receiver_pca10040;receiver_pca10040"/>
+  <ProjectSessionItem path="receiver_pca10040;receiver_pca10040;Application"/>
+  <ProjectSessionItem path="receiver_pca10040;receiver_pca10040;None"/>
+  <ProjectSessionItem path="receiver_pca10040;receiver_pca10040;nRF_Drivers"/>
+  <ProjectSessionItem path="receiver_pca10040;receiver_pca10040;nRF_Libraries"/>
+  <ProjectSessionItem path="receiver_pca10040;receiver_pca10040;nRF_Log"/>
+  <ProjectSessionItem path="receiver_pca10040;receiver_pca10040;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="receiver_pca10040;receiver_pca10040;Segger Startup Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context;CPU;CPU/internal" name="receiver_pca10040" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="receiver_pca10040" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="receiver_pca10040" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="receiver_pca10040" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Twice a Second"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="362" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="123" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="52" y="137" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/peripheral/radio/receiver/main.c" useBinaryEdit="0" left="0" path="../../../../../../../components/drivers_nrf/radio_config/radio_config.c" selected="0" top="172" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="35" y="938" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/components/drivers_nrf/radio_config/radio_config.c" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/mdk/nrf52.h" selected="0" top="913" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="30" y="9134" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/peripheral/radio/receiver/main.c" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/mdk/nrf52_bitfields.h" selected="0" top="0" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="514" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="471" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="33" y="170" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/mdk/ses_startup_nrf_common.s" selected="0" top="153" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="0" openedFrom="" useBinaryEdit="0" left="0" path="Output/Release/Exe/receiver_pca10040.elf" selected="0" top="0" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="59" y="5620" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Output/Release/Exe/receiver_pca10040.map" selected="0" top="5599" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="71" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/mdk/ses_startup_nrf52.s" selected="0" top="54" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="41" y="1671" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/components/drivers_nrf/radio_config/radio_config.c" useBinaryEdit="0" left="0" path="../../../../../../../components/toolchain/cmsis/include/core_cm4.h" selected="0" top="1643" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="663" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/examples/peripheral/radio/receiver/main.c" useBinaryEdit="0" left="0" path="../../../../../../../modules/nrfx/hal/nrf_gpio.h" selected="0" top="635" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="14" y="39" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/atomic/nrf_atomic.c" selected="0" top="407" codecName="UTF-8"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="30" y="227" useTextEdit="1" openedFrom="E:/workspace/Data/15.3.0_SDK_source/components/libraries/atomic/nrf_atomic.c" useBinaryEdit="0" left="0" path="../../../../../../../components/libraries/atomic/nrf_atomic.h" selected="0" top="210" codecName="UTF-8"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="receiver_pca10040" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="E:/workspace/Data/15.3.0_SDK_source/modules/nrfx/drivers/src" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
